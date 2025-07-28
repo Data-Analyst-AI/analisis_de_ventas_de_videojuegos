@@ -8,7 +8,7 @@ The focus is on the year 2016 as a reference point for building marketing strate
 
 ---
 
-Análisis de Ventas de Videojuegos – Proyecto Ice Games
+## Análisis de Ventas de Videojuegos – Proyecto Ice Games
 
 Descripción del Proyecto
 
