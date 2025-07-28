@@ -1,6 +1,6 @@
 # 🎮 Video Game Sales Analysis – Ice Games Project
 
-### 📌 Project Description  
+## 📌 Project Description  
 This project simulates the analysis of historical video game sales for the online store Ice. Its goal is to identify patterns that can help forecast the commercial success of new titles and support the planning of effective advertising campaigns.
 
 The analysis is based on an open dataset containing information on game titles, platforms, genres, user and expert ratings, ESRB classification, and regional sales.  
@@ -8,7 +8,7 @@ The focus is on the year 2016 as a reference point for building marketing strate
 
 ---
 
-## Análisis de Ventas de Videojuegos – Proyecto Ice Games
+### Análisis de Ventas de Videojuegos – Proyecto Ice Games
 
 Descripción del Proyecto
 
